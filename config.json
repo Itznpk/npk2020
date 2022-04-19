@@ -1,6 +1,6 @@
 {
-	"ip":"NpkSurvivalMc.aternos.me",
+	"ip":"SurvivalNpk.aternos.me",
 	"port": "25565",
 	"name": "Bot",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
